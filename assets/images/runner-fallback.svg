@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="Ilustração original de atleta em corrida">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202923"/><stop offset=".56" stop-color="#101712"/><stop offset="1" stop-color="#0a0e0b"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#bef33b" stop-opacity=".42"/><stop offset=".38" stop-color="#bdf63a" stop-opacity=".08"/><stop offset="1" stop-color="#c7fe45" stop-opacity="0"/></radialGradient>
+  <linearGradient id="runner" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#7b9d8b"/><stop offset=".22" stop-color="#52645b"/><stop offset=".66" stop-color="#27332e"/><stop offset="1" stop-color="#111a15"/></linearGradient>
+  <linearGradient id="highlight" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#dfff7f"/><stop offset="1" stop-color="#70b632" stop-opacity=".15"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
+  <pattern id="grid" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M70 0H0V70" fill="none" stroke="#aaf34e" stroke-opacity=".08"/></pattern>
+</defs>
+<path fill="url(#sky)" d="M0 0h900v1100H0z"/><path fill="url(#grid)" d="M0 0h900v1100H0z"/>
+<ellipse cx="515" cy="500" rx="445" ry="570" fill="url(#halo)"/>
+<g fill="none" stroke="#d5ff65" opacity=".15"><path d="M-100 1030C260 735 560 765 1020 940" stroke-width="2"/><path d="M-80 1065C280 788 608 810 1020 980" stroke-width="2"/><path d="M-40 1099C270 860 600 880 1000 1020" stroke-width="3"/><path d="M75 1045L810 710" stroke-width="1.5" stroke-dasharray="12 14"/></g>
+<g stroke="#a6f522" stroke-linecap="round" opacity=".4" filter="url(#glow)"><path d="M40 540L410 470" stroke-width="21"/><path d="M100 640L365 558" stroke-width="13"/><path d="M20 780L455 615" stroke-width="10"/></g>
+<g fill="none" stroke="#b4eb3f" stroke-linecap="round" opacity=".4"><path d="M-50 565L352 470" stroke-width="2"/><path d="M20 661L333 577" stroke-width="2"/><path d="M35 783L386 653" stroke-width="2"/></g>
+<!-- Abstract, original athlete silhouette assembled from anatomical shapes -->
+<g stroke="#17211a" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M443 478C408 542 359 624 292 699L128 783" stroke-width="104" fill="none"/>
+  <path d="M452 520C538 582 612 645 664 732L774 852" stroke-width="92" fill="none"/>
+  <path d="M395 339L295 425L201 382" stroke-width="71" fill="none"/>
+  <path d="M521 357L615 426L713 375" stroke-width="71" fill="none"/>
+</g>
+<g stroke="url(#runner)" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M446 484C412 542 355 628 290 704L137 785" stroke-width="79" fill="none"/>
+  <path d="M456 516C530 585 612 655 667 734L761 846" stroke-width="78" fill="none"/>
+  <path d="M397 342L293 424L201 380" stroke-width="58" fill="none"/>
+  <path d="M520 361L612 425L706 383" stroke-width="58" fill="none"/>
+</g>
+<path d="M402 291C445 284 525 308 549 368L505 541C480 574 398 546 367 508L369 364C372 329 381 302 402 291Z" fill="url(#runner)" stroke="#18251c" stroke-width="12"/>
+<path d="M414 325C457 325 500 349 512 386L473 477" fill="none" stroke="url(#highlight)" stroke-width="10" opacity=".43"/>
+<path d="M432 218C413 222 403 244 406 270C409 311 442 332 480 324C521 317 544 280 530 244C517 207 471 199 432 218Z" fill="url(#runner)" stroke="#131d15" stroke-width="9"/>
+<path d="M412 241C420 202 488 178 524 226C506 215 480 222 460 236Z" fill="#111a14"/>
+<path d="M453 321L457 341" stroke="#c5fe48" stroke-opacity=".25" stroke-width="10"/>
+<path d="M267 699L129 780" stroke="url(#highlight)" stroke-opacity=".4" stroke-width="7" stroke-linecap="round"/>
+<path d="M667 727L754 844" stroke="url(#highlight)" stroke-opacity=".35" stroke-width="7" stroke-linecap="round"/>
+<path d="M137 785Q105 810 58 813L24 830Q16 851 50 855L161 845Q175 826 157 798Z" fill="#b1e738" stroke="#192113" stroke-width="7"/>
+<path d="M765 844L807 883Q819 912 872 933L884 964Q878 980 849 966L739 899Q724 872 750 845Z" fill="#c5f940" stroke="#1e2b14" stroke-width="8"/>
+<g fill="#d0ff56" opacity=".65"><circle cx="764" cy="170" r="4"/><circle cx="706" cy="229" r="3"/><circle cx="176" cy="295" r="5"/></g>
+<path d="M710 96H838M774 96V224" stroke="#ccfb4a" opacity=".35" stroke-width="1"/>
+<text x="745" y="106" fill="#d4ff69" font-family="Arial,sans-serif" font-weight="700" font-size="15" letter-spacing="5" transform="rotate(90 745 106)" opacity=".55">MOTION / 01</text>
+</svg>

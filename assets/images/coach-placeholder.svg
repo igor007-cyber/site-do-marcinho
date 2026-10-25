@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-label="Arte ilustrativa de preparação física, não é um retrato do treinador">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#333b2e"/><stop offset=".58" stop-color="#171d17"/><stop offset="1" stop-color="#0c120e"/></linearGradient><linearGradient id="j" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#b6cba3"/><stop offset="1" stop-color="#3d5344"/></linearGradient><radialGradient id="light"><stop stop-color="#bbfd4c" stop-opacity=".42"/><stop offset="1" stop-color="#bbfd4c" stop-opacity="0"/></radialGradient></defs>
+<path fill="url(#bg)" d="M0 0h900v1080H0z"/><circle cx="450" cy="355" r="420" fill="url(#light)"/>
+<g opacity=".17" fill="none" stroke="#bdf74a" stroke-width="2"><path d="M0 800Q430 510 900 830"/><path d="M0 840Q430 550 900 870"/><path d="M0 880Q430 600 900 910"/><path d="M0 930Q430 640 900 970"/></g>
+<circle cx="449" cy="284" r="132" fill="#435a4c"/><path d="M301 243Q300 130 433 120Q578 137 588 261Q553 223 501 224Q402 229 301 243Z" fill="#19261c"/>
+<path d="M367 400Q447 451 527 400L566 515H330Z" fill="#829b76"/><path d="M223 560Q258 444 349 459L450 513L543 459Q656 456 702 567L820 1080H85Z" fill="url(#j)"/>
+<path d="M350 506Q450 561 549 506" fill="none" stroke="#bfed61" stroke-width="10" stroke-opacity=".35"/>
+<path d="M236 563Q443 640 690 557" fill="none" stroke="#203526" stroke-width="12" stroke-opacity=".38"/>
+<path d="M171 1044L735 1044" stroke="#b9ef56" stroke-width="4" opacity=".65"/>
+<g fill="#ccfd5f" opacity=".72" font-family="Arial,sans-serif" font-weight="700"><text x="45" y="82" font-size="20" letter-spacing="10">PERFORMANCE</text><text x="47" y="1030" font-size="20" letter-spacing="8">ILUSTRAÇÃO / TREINAMENTO</text></g>
+</svg>
